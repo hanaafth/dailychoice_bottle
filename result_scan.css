@@ -1,0 +1,118 @@
+.body{
+    background-color: #FFFFFF;
+    border: 1px #B3B8B9 solid;
+    text-align: center;
+    height: 812pt;
+    width: 375pt;
+    align-items: center;
+}
+
+.top{
+    background-color: #FFFFFF;
+    border: 1px #B3B8B9 solid;
+    height: 75pt;
+    width: 375pt;
+    box-shadow: 0px 10px 16px -6px rgba(112,112,112,1);
+}
+
+.logo{
+    height:60pt;
+    width: 60pt;
+    margin-left: 306pt;
+}
+
+.reglages{
+    color:#20D9F3;
+    font-family: 'Montserrat', sans-serif;
+    font-size:35pt;
+    margin-top:-45pt;
+}
+.product{
+    height:39pt;
+    width:39pt;
+}
+
+.barcode{
+    height:39pt;
+    width:39pt;
+}
+
+.controls{
+    height:39pt;
+    width:39pt;
+}
+
+.footer{
+    background-color: #FFFFFF;
+    border: 1px #B3B8B9 solid;
+    height: 75pt;
+    width: 375pt;
+    display: flex;
+    margin-top: 131pt;
+}
+
+.one{
+    margin-left: 40pt;
+}
+
+.two{
+    margin-left: 50pt;
+}
+
+.three{
+    margin-left: 50pt;
+}
+
+.image{
+    height:325pt;
+    width:375pt;
+}
+
+.button{
+    width: 67pt;
+    height: 29pt;
+    background-color: #20D9F3;
+    color: #FFFFFF;
+    border-radius: 20pt;
+    font-size: 24pt;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 50pt;
+}
+
+.button:hover{
+    transform: scale(1.05);
+    transition:0.3s transform;
+}
+
+.saisie{
+    font-size: 17pt;
+    color: #707070;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.impossible{
+    font-size: 12pt;
+    color: #707070;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.area{
+    height: 33pt;
+    width: 352pt;
+    border: 0.5pt #B3B8B9 solid;
+    font-size: 14pt;
+    font-family: 'Montserrat', sans-serif;
+    color:#707070;
+}
+
+.script{
+    color:#707070;
+    font-family: 'Montserrat', sans-serif;
+    font-size:13pt;
+}
+
+.script_select{
+    color:#20D9F3;
+    font-family: 'Montserrat', sans-serif;
+    font-size:13pt;
+}

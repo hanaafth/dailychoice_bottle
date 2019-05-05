@@ -1,0 +1,18 @@
+.body{
+    background-color: #20D9F3;
+    text-align: center;
+    height: 812pt;
+    width: 375pt;
+    align-items: center;
+}
+.script{
+    color:#FCF7F7;
+    font-family: 'Montserrat', sans-serif;
+    font-size:29pt;
+    margin-top: 109pt;
+}
+.image{
+    height: 277pt;
+    width:277pt;
+    margin-top: 268pt;
+}
